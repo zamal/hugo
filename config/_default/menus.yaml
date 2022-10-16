@@ -7,9 +7,6 @@ main:
   - name: Главная
     url: '#about'
     weight: 10
-  - name: Мои работы
-    url: '#projects'
-    weight: 20
    - name: Галерея
     url: '#gallery'
     weight: 30
