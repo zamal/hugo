@@ -4,13 +4,13 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: Главная
     url: '#about'
     weight: 10
-  - name: Posts
-    url: '#posts'
+  - name: Галерея
+    url: gallary/
     weight: 20
-  - name: Projects
+  - name: Мои работы
     url: '#projects'
     weight: 30
   - name: Talks
