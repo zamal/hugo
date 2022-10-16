@@ -8,17 +8,11 @@ main:
     url: '#about'
     weight: 10
   - name: Мои работы
-    url: '#portfolio'
+    url: '#projects'
     weight: 20
-    - name: Галерея
+   - name: Галерея
     url: '#gallery'
     weight: 30
-  #- name: Talks
-  #  url: '#talks'
-  #  weight: 40
-  #- name: Блог
-  #  url: '#featured'
-  #  weight: 50
   - name: Связаться со мной
     url: '#contact'
     weight: 40
