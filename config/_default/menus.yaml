@@ -16,10 +16,10 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Блог
     url: '#featured'
     weight: 50
-  - name: Contact
+  - name: Связаться со мной
     url: '#contact'
     weight: 60
 
