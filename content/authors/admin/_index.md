@@ -48,7 +48,7 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/wowchemy
-   - icon: vk
+   - icon: fa-vk
     icon_pack: fab
     link: https://twitter.com/wowchemy
   - icon: instagram
