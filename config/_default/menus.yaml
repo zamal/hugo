@@ -9,6 +9,11 @@ main:
     weight: 10
   - name: Проекты
     url: '#projects'
+    identifier: projects
+    weight: 20
+  - name: Дети
+    parent: projects
+    url: tags/academic/
     weight: 20
   - name: Галерея
     url: '#gallery'
