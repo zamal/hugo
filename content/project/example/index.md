@@ -2,7 +2,7 @@
 title: 'Портреты'
 summary: Пример внутренней страницы.
 tags:
-  - Deep Learning
+  - Взрослые
 date: '2016-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
