@@ -8,16 +8,16 @@ main:
     url: '#about'
     weight: 10
   - name: Проекты
-    identifier: projects
-    weight: 20
-  - name: Все
-    parent: projects
     url: '#projects'
     weight: 20
-  - name: Дети
-    parent: projects
-    url: project/example/
-    weight: 20
+#  - name: Все
+#    parent: projects
+#    url: '#projects'
+#    weight: 20
+#  - name: Дети
+#    parent: projects
+#    url: project/example/
+#    weight: 20
   - name: Галерея
     url: '#gallery'
     weight: 30
