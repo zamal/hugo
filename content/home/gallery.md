@@ -16,4 +16,6 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="demo" resize_options="250x250" >}}
+{{< gallery album="demo" >}}
+
+{{< figure src="IMG_1782.jpg" caption="A caption" numbered="true" >}}
