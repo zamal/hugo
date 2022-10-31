@@ -13,7 +13,7 @@ title: 'Галерея'
 subtitle: ''
 
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-{{< gallery album="demo" >}}
+{{< gallery album="demo" resize_options="250x250" >}}
