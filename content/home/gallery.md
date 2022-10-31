@@ -13,7 +13,7 @@ title: 'Галерея'
 subtitle: ''
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
 {{< gallery album="demo" resize_options="2000x2000" >}}
