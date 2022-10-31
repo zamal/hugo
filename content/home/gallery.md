@@ -17,5 +17,3 @@ design:
 ---
 
 {{< gallery album="demo" >}}
-
-{{< figure src="IMG_1782.jpg" caption="A caption" numbered="true" >}}
