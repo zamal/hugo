@@ -16,4 +16,10 @@ design:
   columns: '1'
 ---
 
-{{< gallery album="demo" >}}
+#{{< gallery album="demo" >}}
+
+{{< gallery >}}
+  {{< figure src="IMG_1782.jpg" >}}
+  {{< figure src="IMG_1788.jpg" >}}
+  {{< figure src="IMG_2075.jpg" >}}
+{{< /gallery >}}
