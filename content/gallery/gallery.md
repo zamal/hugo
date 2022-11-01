@@ -17,5 +17,6 @@ design:
   
 ---
 
-{{< figure src="IMG_1782.jpg" caption="A caption" numbered="true" >}}
+{{< figure src="IMG_1782.jpg" caption="A caption" >}}
 
+{{< figure src="IMG_1788.jpg" caption="A caption" >}}
