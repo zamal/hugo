@@ -15,13 +15,7 @@ subtitle: ''
 design:
   columns: '1'
   
-gallery_item:  
-- album: 'demo'
-  image: 'IMG_1782.jpg'
-  caption: 'Write your image caption here'  # only shown when zoom out
-  order: "asc" # "asc" or "desc"
-  resize_options:  # which supports Hugo image processing options.
 ---
 
-
+{{< figure src="IMG_1782.jpg" caption="A caption" numbered="true" >}}
 
