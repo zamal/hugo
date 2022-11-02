@@ -13,7 +13,7 @@ title: ''
 subtitle: ''
 
 design:
-  columns: '1'
+  columns: '2'
 
 #{{< figure src="IMG_1782.jpg" caption="A caption" >}}
 
