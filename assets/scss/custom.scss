@@ -1,6 +1,4 @@
-.gallery {
-    display: grid;
-    grid-template-columns: repeat(8, 1fr);
-    grid-template-rows: repeat(8, 5vw);
-    grid-gap: 15px;
+a[data-fancybox] img {
+  height: 600px;
+  width: 600px; 
 }
